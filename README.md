@@ -1,3 +1,3 @@
 # design-pattern
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT THE DESIGN PATTERN -->
+## About The Design Pattern
